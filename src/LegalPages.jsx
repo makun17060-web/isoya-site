@@ -2,8 +2,8 @@ export function SpecifiedCommercialTransaction() {
   const rows = [
     { label: "販売事業者", value: "磯屋コマース合同会社" },
     { label: "運営責任者", value: "木村 太郎" },
-    { label: "所在地", value: "〒000-0000 愛知県知多郡武豊町〇〇" },
-    { label: "電話番号", value: "090-xxxx-xxxx" },
+    { label: "所在地", value: "〒470-3412 愛知県知多郡南知多町豊浜字清水谷25-5" },
+    { label: "電話番号", value: "0569-65-0955" },
     { label: "メールアドレス", value: "info@isoya.co.jp" },
     { label: "販売URL", value: "https://isoya.co.jp/" },
     { label: "販売価格", value: "各商品ページに税込価格を表示しています。" },
@@ -112,9 +112,9 @@ export function SpecifiedCommercialTransaction() {
           <div className="mt-5 text-sm leading-7 text-white/90">
             メール：info@isoya.co.jp
             <br />
-            所在地：〒000-0000 愛知県知多郡武豊町〇〇
+            所在地：〒470-3412 愛知県知多郡南知多町豊浜字清水谷25-5
             <br />
-            電話番号：090-xxxx-xxxx
+            電話番号：0569-65-0955
           </div>
         </div>
       </main>
