@@ -63,15 +63,15 @@ export default function App() {
   ];
 
   const companyInfo = [
-    { label: "法人名", value: "磯屋コマース合同会社" },
+    { label: "法人名", value: "合同会社　磯屋コマース" },
     { label: "屋号・ブランド", value: "手づくりえびせんべい 磯屋" },
-    { label: "代表者", value: "木村 太郎" },
+    { label: "代表者", value: "家田　勝" },
     { label: "所在地", value: "〒470-3412 愛知県知多郡南知多町豊浜字清水谷25-5" },
     {label: "事業内容",
       value: "えびせんべいの販売、通販、受注対応、法人対応、卸相談",
     },
     { label: "メール", value: "info@isoya.co.jp" },
-    { label: "電話", value: "090-xxxx-xxxx" },
+    { label: "電話", value: "0569-65-0955" },
     { label: "営業時間", value: "平日 9:00〜17:00" },
   ];
 
@@ -359,7 +359,7 @@ export default function App() {
                   </p>
                   <p>
                     <span className="font-semibold">電話：</span>
-                    090-xxxx-xxxx
+                    0569-65-0955
                   </p>
                   <p>
                     <span className="font-semibold">所在地：</span>
