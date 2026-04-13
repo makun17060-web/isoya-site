@@ -66,9 +66,8 @@ export default function App() {
     { label: "法人名", value: "磯屋コマース合同会社" },
     { label: "屋号・ブランド", value: "手づくりえびせんべい 磯屋" },
     { label: "代表者", value: "木村 太郎" },
-    { label: "所在地", value: "〒470-3412 愛知県知多郡南知多町豊浜字清水谷25-5 },
-    {
-      label: "事業内容",
+    { label: "所在地", value: "〒470-3412 愛知県知多郡南知多町豊浜字清水谷25-5" },
+    {label: "事業内容",
       value: "えびせんべいの販売、通販、受注対応、法人対応、卸相談",
     },
     { label: "メール", value: "info@isoya.co.jp" },
